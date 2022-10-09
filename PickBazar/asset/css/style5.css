@@ -1,0 +1,44 @@
+.iamges{
+    width: 261px;
+}
+.posiition{
+    position: relative;
+    top: 120px;
+    left: 100px;
+}
+.maaaain{
+    width: 100%;
+    background-color:rgb(231, 231, 231) !important;;
+    padding-bottom: 160px;
+}
+.bottomdiv{
+    background-color: white;
+    height: 50px;
+    width: 241px;
+}
+.bottp{
+    position: relative;
+    top: 20px;
+}
+.bottp2{
+    position: relative;
+    top: 40px;
+}
+.ccopy{
+    position: relative;
+    left: 140px;
+    color: rgb(0, 159, 127);
+}
+.ccopy2{
+    position: relative;
+    left: 105px;
+    color: rgb(0, 159, 127);
+}
+.ccopy3{
+    position: relative;
+    left: 115px;
+    color: rgb(0, 159, 127);
+}
+.ccopy:hover{
+    cursor: pointer;
+}

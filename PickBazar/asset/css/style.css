@@ -1,0 +1,506 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    /* height: 100vh; */
+    background-color: black;
+    background-size: 100%;
+    background-position: center;
+}
+.button-colors{
+    background-color: rgb(0, 159, 127);
+    border: none;
+}
+.button-colors:hover{
+    background-color: rgb(1, 107, 86) !important;
+}
+.mail-drop-logo{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 12px;
+}
+.mail-drop{
+    border-radius: 10px;
+    width: 37% !important;
+    padding: 30px 30px 20px 30px !important;
+    display: none;
+    z-index: 9;
+    position: relative;
+    top: 666px;
+    margin-top: -623px !important;
+    position: fixed;
+}
+.mail-drop2{
+    border-radius: 10px;
+    width: 37% !important;
+    padding: 30px 30px 20px 30px !important;
+    display: none;
+    z-index: 9;
+    position: fixed;
+    margin-top: -623px !important;
+    padding-bottom: 342px !important;
+}
+.mail-drop3{
+    border-radius: 10px;
+    width: 87% !important;
+    /* padding: 30px 30px 20px 30px !important; */
+    display: none;
+    z-index: 9;
+    position: relative;
+    top: 776px;
+    left: 94px;
+    margin-top: -623px !important;
+    position: fixed;
+}
+.now{
+
+}
+.p{
+    background-color: #eee !important;
+    position: relative;
+    right: 45%;
+    top: 21%;
+    padding: 0 10px;
+}
+.now:before{
+    content: '';
+    width: 100%;
+    height: 1px;
+    background-color:grey;
+    position: relative;
+    top: 51%;
+    left: 4%;
+}
+.button-background{
+    background-color: grey;
+}
+.mail-button-icons{
+   font-size: 150%;
+   position: relative;
+   top: 10%;
+   right: 1%;
+}
+.password-eye{
+    width: 5%;
+    color: grey;
+    background-color: grey;
+    position: absolute;
+    left: 91%;
+    z-index: 2;
+    bottom: 28%;
+}
+.mail-link{
+    
+    background-color: #eee !important;
+    background: none !important;
+    border: none;
+    top: 7%;
+}
+#fone-grey{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey2{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey3{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey4{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey5{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey6{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey7{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey8{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey9{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey10{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey11{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey12{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey13{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey14{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey15{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey16{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey17{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey18{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey19{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey20{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey21{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey22{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey23{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey24{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey25{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey26{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey27{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey28{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey29{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#fone-grey30{
+    background-color: rgba(1, 1, 1, 0.75);
+    position: fixed;left: 0;right: 0;top: 0;bottom: 0;
+    display: none;
+    z-index: 8;
+}
+#drip-drop{
+    margin-top: 9%;
+}
+.Grocery-button{
+    /* position: relative;
+    right: 347%; */
+    border-color:rgb(238, 237, 237) ;
+    background:white !important ;
+    color: rgb(0, 159, 127) !important;
+    padding: 6% 27%;
+}
+.Grocery-button:hover{
+    border-color:rgb(197, 196, 196) !important ;
+}
+.Grocery-drop{
+    position: relative;
+    right: 57%;
+}
+.pik-logo{
+    width: 35%;
+    position: relative;
+    right: 10%;
+    top: 10%;
+}
+.mynav{
+    position: fixed;
+    left: 16%;
+    top: 2%;
+    background: none !important;
+    z-index: 7;
+}
+.nav1{
+    position: relative;
+    right: 15%;
+}
+.nav-buttons-position1{
+    position: relative;
+    left: 36%;
+}
+.nav-buttons-position2{
+    position: relative;
+    right: 10%;
+}
+.all-positions{
+    position: relative;
+    left: 10%;
+}
+.daily-span{
+    position: relative;
+    left: 3%;
+}
+.daily-furniture{
+    position: relative;
+    right: 0.5%;
+}
+.daily-clothing{
+    position: relative;
+    right: -1%;
+}
+.daily-bags{
+    position: relative;
+    right: 3%;
+}
+.header-text{
+    position: relative !important;
+    top: 240px !important;
+}
+.header-input{
+    padding: 2%;
+}
+.header-button{
+   padding-right: 10%;
+   background-color: rgb(0, 159, 127);
+   color: white;
+}
+.header-button:hover{
+    background-color:rgb(2, 97, 78) ;
+}
+.search-text{
+    position: relative;
+    left: 25%;
+}
+.header-h1-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+.header-p-text{
+    font-size: 18px;
+}
+.little-window{
+    width: 6%;
+    height: 89px;
+    background-color:rgb(0, 159, 127) ;
+    border-radius: 7px;
+    position: relative;
+    bottom: 284px;
+    position: fixed;
+    top: 304px;
+    z-index: 3;
+}
+.little-window:hover{
+    cursor: pointer;
+}
+.window-p{
+    color: white;
+}
+.little-window2{
+    width: 75%;
+    background-color: white;
+    height: 40px;
+    position: relative;
+    bottom: 15%;
+    border-radius: 7px;
+}
+.little-window2-p{
+    position: relative;
+    top: 15%;
+    color:rgb(0, 159, 127)  ;
+}
+.section1-images{
+    border: none !important;
+}
+.header-height{
+    padding-bottom: 35%;
+}
+.main{
+    width: 100%;
+    background-color:rgb(231, 231, 231) !important;
+    display: flex;
+    flex-direction: column;
+}
+.left-side-menu{
+    width: 18%;
+    /* height: 550px; */
+    background-color: white;
+    position:sticky !important;
+    top:84px !important;
+    overflow-x: none;
+    z-index: 1;
+}
+.left-side-buttons{
+    background-color:white !important;
+    border: none;
+    color: black;
+}
+.left-side-buttons:hover{
+    color:rgb(0, 159, 127);
+}
+.nav-div{
+    width: 100%;
+    background-color: white;
+    height: 84px;
+    position: fixed;
+    z-index: 8;
+}
+.main-images-div{
+    width: 19%;
+    background-color: white;
+    position: relative;
+    /* bottom: 150%;
+    left: 3%; */
+    border-radius: 5px;
+}
+.main-images{
+    width: 251px;
+}
+.main-images:hover{
+    cursor: pointer;
+}
+.main-div-button{
+    background-color:rgb(231, 231, 231) !important;
+    color: black;
+    border: none;
+    width: 80%;
+    position: relative;
+    left: 9%;
+}
+.main-div-button:hover{
+    background-color:rgb(0, 159, 127) !important;
+}
+.main-div-button-div{
+    padding-bottom: 5%;
+}
+.main-images-div-text{
+    padding-left: 10%;
+}
+.main-images-div1{
+    left: 15%;
+}
+.main-images-div2{
+    left: 11%;
+}
+.main-images-div3{
+    left: 7%;
+}
+.main-images-div4{
+    left: 3%;
+}
+.contain-diver{
+    position: relative;
+    bottom: -30px;
+    margin-top: -567px;
+}
+.position-left{
+    position: relative;
+    left: 265px;
+}
+.position-left2{
+    left: 215px;
+}
+.last-button{
+    background-color:rgb(0, 159, 127) ;
+    color: white;
+    border: none;
+}
+.last-button:hover{
+    background-color:rgb(1, 100, 80) ;
+}
+.last-button-div{
+    position: relative;
+    bottom: -40px;
+    background-color:rgb(231, 231, 231)  ;
+}
+.last-img-sizes{
+    width: 398px !important;
+}

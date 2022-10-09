@@ -1,0 +1,22 @@
+.maain{
+    background-color:rgb(231, 231, 231) !important;
+    width: 100%;
+   
+}
+.div-1{
+    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+    background-color: white;
+}
+.div-2{
+    position: relative;
+    left: 40px;
+    background-color: white;
+}
+.color-grey{
+    color: gray;
+}
+.style-3-icons{
+    font-size: 25px;
+}

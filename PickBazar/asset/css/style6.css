@@ -1,0 +1,40 @@
+.paraqraf{
+    position: relative;
+    top: 150px;
+}
+.immgess{
+    width: 64px;
+    border-radius: 100%;
+}
+.sira1{
+   position: relative;
+   top: 50px;
+}
+.sira2{
+    position: relative;
+   top: 90px;
+}
+.sira3{
+    position: relative;
+    top: 130px;
+}
+.pootion{
+    position: relative;
+    top: 130px;
+}
+.imegc-div{
+   border: 1px solid rgb(226, 225, 225);
+   padding: 15px;
+   width: 320px;
+}
+.marrginleft{
+    margin-left: 15px;
+}
+.yazilar{
+    font-size: 13px;
+}
+.pp{
+    margin-top: -21px;
+    position: relative;
+    top: 15px;
+}

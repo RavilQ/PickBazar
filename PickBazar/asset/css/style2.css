@@ -1,0 +1,7 @@
+.mail-drop{
+    border-radius: 10px;
+    width: 34% !important;
+    display: block;
+    padding: 30px 30px 20px 30px !important;
+    z-index: 9;
+}
